@@ -1,0 +1,79 @@
+/* Add your CSS style definitions to this file */
+
+article {
+  font-family: "Open Sans";
+  font-size: 0.9rem;
+  color: #000000;
+}
+
+body {
+  margin: 0em 4em;
+  background-color: #f9f9f9f9;
+}
+
+article {
+  background-color: #ffffff;
+  margin-top: 30px;
+}
+
+h1 {
+  font-family: "Roboto Slab";
+  font-size: 2rem;
+  color: #9f2042;
+  text-align: center;
+  margin-top: 18px;
+  margin-bottom: 0px;
+}
+
+#details {
+  color: #a9a9ba;
+  text-align: center;
+  margin-top: 2px;
+}
+
+blockquote {
+  font-family: "Roboto Slab";
+  font-size: 1.25rem;
+  color: #000000;
+  background-color: #ececec;
+  padding: 16px 28px;
+}
+
+div a {
+  color: #ec8295;
+  border-radius: 4px;
+  padding: 10px;
+  background-color: #f9f9f9f9;
+}
+
+div a:hover {
+  background-color: #a9a9ba;
+  color: #9f2042;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+#buttons {
+  margin-top: 20px;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 0px;
+}
+
+footer {
+  margin-top: 22px;
+  color: #ffffff;
+  background-color: #29293a;
+  padding: 10px;
+}
+
+footer a {
+  color: #ec8295;
+  text-decoration: none;
+}
+
+footer p {
+  color: #ececec;
+}
